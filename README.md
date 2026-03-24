@@ -15,12 +15,6 @@ O projeto surgiu a partir de uma necessidade real: reduzir o trabalho manual env
 
 ---
 
-## 🧪 Dados fictícios
-
-Os dados utilizados neste projeto são **totalmente fictícios**, gerados automaticamente para simular exportações do Trello, sem qualquer relação com dados reais.
-
----
-
 ## ⚙️ Tecnologias utilizadas
 
 - Python
@@ -29,6 +23,14 @@ Os dados utilizados neste projeto são **totalmente fictícios**, gerados automa
 
 ---
 
+
+## 📁 Arquivo de exemplo
+
+O projeto inclui um arquivo de exemplo na pasta `INPUT/` (`trello.xlsx`) para facilitar testes.
+
+Os dados presentes nesse arquivo são **totalmente fictícios**, utilizados apenas para simulação, sem qualquer relação com dados reais.
+
+---
 
 ## ▶️ Como usar
 
